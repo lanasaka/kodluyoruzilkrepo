@@ -1,10 +1,9 @@
 # kodluyoruzilkrepo
 
 Kodluyoruz Front-End kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası bir adet index.html dosyası barındırıyor
-##Installation
+## Installation
 
-Öncelikle projeyi klonlayın .(Buraya sizin reponuzdan aldığınız link gelecek)
-
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```bash
 git clone https://github.com/lanasaka/kodluyoruzilkrepo.git
 ```
